@@ -1,0 +1,10 @@
+C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\bin\Debug\netstandard2.0\pyro.Avian.deps.json
+C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\bin\Debug\netstandard2.0\pyro.Avian.dll
+C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\bin\Debug\netstandard2.0\pyro.Avian.pdb
+C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\obj\Debug\netstandard2.0\pyro.Avian.csproj.AssemblyReference.cache
+C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\obj\Debug\netstandard2.0\pyro.Avian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\obj\Debug\netstandard2.0\pyro.Avian.AssemblyInfoInputs.cache
+C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\obj\Debug\netstandard2.0\pyro.Avian.AssemblyInfo.cs
+C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\obj\Debug\netstandard2.0\pyro.Avian.csproj.CoreCompileInputs.cache
+C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\obj\Debug\netstandard2.0\pyro.Avian.dll
+C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\obj\Debug\netstandard2.0\pyro.Avian.pdb

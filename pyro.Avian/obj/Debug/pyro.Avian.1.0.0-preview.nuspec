@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>pyro.Avian</id>
+    <version>1.0.0-preview</version>
+    <authors>Spicco D'Aura</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>pyro.Avian.png</icon>
+    <description>A high-performance Roslyn Source Generator that automatically embeds and fuses external assembly dependencies directly into your final binary using an optimized compile-time Base64 delivery pipeline.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\bin\Debug\netstandard2.0\pyro.Avian.dll" target="lib\netstandard2.0\pyro.Avian.dll" />
+    <file src="C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\pyro.Avian.targets" target="build\pyro.Avian.targets" />
+    <file src="C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\Media\pyro.Avian.png" target="\pyro.Avian.png" />
+  </files>
+</package>
