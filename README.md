@@ -1,4 +1,4 @@
-# pyro.Avian 🔥
+# <img width="64" height="64" alt="Pyro Avian" src="https://github.com/user-attachments/assets/acf8d942-0c6c-4360-b33c-8fd29ae52cef" /> pyro.Avian
 
 [![NuGet Version](https://img.shields.io/nuget/v/pyro.Avian.svg)](https://www.nuget.org/packages/pyro.Avian/)
 [![License](https://img.shields.io/badge/license-CC%20BY--SA%201.0-orange.svg)](https://creativecommons.org/licenses/by-sa/1.0/)
