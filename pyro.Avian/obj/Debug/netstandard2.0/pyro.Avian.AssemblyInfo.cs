@@ -15,11 +15,12 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("A high-performance Roslyn Source Generator that automatically embeds and fuses ex" +
     "ternal assembly dependencies directly into your final binary using an optimized " +
     "compile-time Base64 delivery pipeline."))]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0-preview")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1-preview+857c0e8171245bcdefdd5fc69da26bf7786b03f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("pyro.Avian")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pyro.Avian")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Vertex-Tools/pyro.Avian.git")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
 

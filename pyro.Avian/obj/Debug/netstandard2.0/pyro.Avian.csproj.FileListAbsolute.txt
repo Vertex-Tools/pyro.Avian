@@ -8,3 +8,4 @@ C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\obj\Debug\netstandard2.0\pyro
 C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\obj\Debug\netstandard2.0\pyro.Avian.csproj.CoreCompileInputs.cache
 C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\obj\Debug\netstandard2.0\pyro.Avian.dll
 C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\obj\Debug\netstandard2.0\pyro.Avian.pdb
+C:\Users\ciste\RiderProjects\pyro.Avian\pyro.Avian\obj\Debug\netstandard2.0\pyro.Avian.sourcelink.json
